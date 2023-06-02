@@ -3,7 +3,7 @@
 <h1 align='center'> Hi there 👋, I'm Sourav  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Odisha, India and I Am a student.. 
+  I Am a computer science engineering student.. 
 </p>
 
 - 👋 Hi, I’m @Souravmund02
@@ -12,9 +12,7 @@
 - 💞️ I’m looking to collaborate on Open Sourse
 
 
-<p align='center'>
-  <a href="#"><img src="![Visitor Count](https://profile-counter.glitch.me/Souravmund02/count.svg)"></a>
-</p>
+
 
 
 <p align='center'>
