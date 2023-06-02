@@ -13,7 +13,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+  <a href="#"><img src="![Visitor Count](https://profile-counter.glitch.me/Souravmund02/count.svg)"></a>
 </p>
 
 
